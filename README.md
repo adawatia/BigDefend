@@ -4,7 +4,7 @@
 
 ⚠️ **WARNING: The GUI interface is currently in beta and may exhibit instability. Use with caution in production environments.**
 
-Big Defend is an advanced **Intrusion Detection System (IDS)** powered by **Machine Learning and Real-Time Packet Capture**. It captures live network traffic, trains an anomaly detection model, and monitors threats efficiently. The project comes with a sleek **GUI built using PySide6**.
+Big Defend is an advanced **Intrusion Detection System (IDS)** powered by **Machine Learning and Real-Time Packet Capture**. It captures live network traffic, trains an anomaly detection model, and monitors threats efficiently. The project comes with a sleek **GUI built using PySide**.
 
 ---
 
