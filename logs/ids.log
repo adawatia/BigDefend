@@ -1,1 +1,82 @@
-2025-03-23 14:03:23,675 - ERROR - Error loading model: 
+2025-03-30 15:56:05,378 - INFO - \u2714\ufe0f IDS Model Loaded.
+2025-03-30 15:56:45,311 - INFO - \u2714\ufe0f IDS Model Loaded.
+2025-03-30 16:00:33,688 - INFO - \u2714\ufe0f IDS Model Loaded.
+2025-03-30 16:07:14,068 - INFO - \u2714\ufe0f IDS Model Loaded.
+2025-03-30 16:09:49,862 - INFO - \u2714\ufe0f IDS Model Loaded.
+2025-03-30 16:11:57,361 - INFO - \u2714\ufe0f IDS Model Loaded.
+2025-03-30 16:12:57,760 - INFO - \u2714\ufe0f IDS Model Loaded.
+2025-03-30 16:17:08,853 - INFO - \u2714\ufe0f IDS Model Loaded.
+2025-03-30 16:18:57,172 - INFO - \u2714\ufe0f IDS Model Loaded.
+2025-03-30 16:26:08,185 - INFO - \u2714\ufe0f IDS Model Loaded.
+2025-03-30 16:26:28,467 - INFO - \u2714\ufe0f IDS Model Loaded.
+2025-03-30 16:26:28,528 - INFO - Packet Ether / IP / TCP 40.79.189.59:https > 192.168.1.102:49980 PA / Raw -> Score: -0.2182 -> \U0001f6a8 Threat Detected!
+2025-03-30 16:26:28,541 - INFO - Packet Ether / IP / TCP 192.168.1.102:49980 > 40.79.189.59:https PA / Raw -> Score: -0.2886 -> \U0001f6a8 Threat Detected!
+2025-03-30 16:26:28,701 - INFO - Packet Ether / IP / TCP 40.79.189.59:https > 192.168.1.102:49980 A / Raw -> Score: -0.1349 -> \U0001f6a8 Threat Detected!
+2025-03-30 16:26:28,711 - INFO - Packet Ether / IP / TCP 40.79.189.59:https > 192.168.1.102:49980 A / Raw -> Score: -0.1349 -> \U0001f6a8 Threat Detected!
+2025-03-30 16:26:28,722 - INFO - Packet Ether / IP / TCP 40.79.189.59:https > 192.168.1.102:49980 A / Raw -> Score: -0.1349 -> \U0001f6a8 Threat Detected!
+2025-03-30 16:26:28,732 - INFO - Packet Ether / IP / TCP 40.79.189.59:https > 192.168.1.102:49980 PA / Raw -> Score: -0.2140 -> \U0001f6a8 Threat Detected!
+2025-03-30 16:26:28,743 - INFO - Packet Ether / IP / TCP 192.168.1.102:49980 > 40.79.189.59:https A -> Score: -0.1584 -> \U0001f6a8 Threat Detected!
+2025-03-30 16:26:28,754 - INFO - Packet Ether / IP / TCP 192.168.1.102:49980 > 40.79.189.59:https A / Raw -> Score: -0.2596 -> \U0001f6a8 Threat Detected!
+2025-03-30 16:26:28,765 - INFO - Packet Ether / IP / TCP 192.168.1.102:49980 > 40.79.189.59:https A / Raw -> Score: -0.2596 -> \U0001f6a8 Threat Detected!
+2025-03-30 16:26:28,776 - INFO - Packet Ether / IP / TCP 192.168.1.102:49980 > 40.79.189.59:https A / Raw -> Score: -0.2596 -> \U0001f6a8 Threat Detected!
+2025-03-30 16:26:28,788 - INFO - Packet Ether / IP / TCP 192.168.1.102:49980 > 40.79.189.59:https A / Raw -> Score: -0.2596 -> \U0001f6a8 Threat Detected!
+2025-03-30 16:26:28,799 - INFO - Packet Ether / IP / TCP 192.168.1.102:49980 > 40.79.189.59:https PA / Raw -> Score: -0.2631 -> \U0001f6a8 Threat Detected!
+2025-03-30 16:26:28,872 - INFO - Packet Ether / IP / TCP 40.79.189.59:https > 192.168.1.102:49980 A -> Score: -0.1609 -> \U0001f6a8 Threat Detected!
+2025-03-30 16:26:28,881 - INFO - Packet Ether / IP / TCP 40.79.189.59:https > 192.168.1.102:49980 A -> Score: -0.1609 -> \U0001f6a8 Threat Detected!
+2025-03-30 16:26:28,895 - INFO - Packet Ether / IP / TCP 40.79.189.59:https > 192.168.1.102:49980 PA / Raw -> Score: -0.2182 -> \U0001f6a8 Threat Detected!
+2025-03-30 16:26:28,906 - INFO - Packet Ether / IP / TCP 40.79.189.59:https > 192.168.1.102:49980 FPA / Raw -> Score: -0.1985 -> \U0001f6a8 Threat Detected!
+2025-03-30 16:26:28,916 - INFO - Packet Ether / IP / TCP 192.168.1.102:49980 > 40.79.189.59:https A -> Score: -0.1584 -> \U0001f6a8 Threat Detected!
+2025-03-30 16:26:28,928 - INFO - Packet Ether / IP / TCP 192.168.1.102:49980 > 40.79.189.59:https PA / Raw -> Score: -0.2811 -> \U0001f6a8 Threat Detected!
+2025-03-30 16:26:28,938 - INFO - Packet Ether / IP / TCP 192.168.1.102:49980 > 40.79.189.59:https FA -> Score: -0.1584 -> \U0001f6a8 Threat Detected!
+2025-03-30 16:26:29,027 - INFO - Packet Ether / IP / TCP 40.79.189.59:https > 192.168.1.102:49980 A -> Score: -0.1609 -> \U0001f6a8 Threat Detected!
+2025-03-30 16:26:30,124 - INFO - Packet Ether / IP / TCP 192.168.1.102:49927 > 13.67.9.5:https A / Raw -> Score: -0.1696 -> \U0001f6a8 Threat Detected!
+2025-03-30 16:26:30,209 - INFO - Packet Ether / IP / TCP 13.67.9.5:https > 192.168.1.102:49927 A -> Score: -0.2139 -> \U0001f6a8 Threat Detected!
+2025-03-30 16:26:30,681 - INFO - Packet Ether / IP / TCP 13.89.178.26:https > 192.168.1.102:49928 PA / Raw -> Score: -0.2182 -> \U0001f6a8 Threat Detected!
+2025-03-30 16:26:30,691 - INFO - Packet Ether / IP / TCP 192.168.1.102:49928 > 13.89.178.26:https PA / Raw -> Score: -0.2827 -> \U0001f6a8 Threat Detected!
+2025-03-30 16:26:31,113 - INFO - Packet Ether / IP / TCP 13.89.178.26:https > 192.168.1.102:49928 A -> Score: -0.1609 -> \U0001f6a8 Threat Detected!
+2025-03-30 16:26:34,890 - INFO - Packet Ether / IP / UDP / mDNS Ans b'Satellite._dosvc._tcp.local.' -> Score: -0.2578 -> \U0001f6a8 Threat Detected!
+2025-03-30 16:26:34,904 - INFO - Packet Ether / IP / UDP / mDNS Qry b'Satellite._dosvc._tcp.local.' -> Score: -0.2549 -> \U0001f6a8 Threat Detected!
+2025-03-30 16:26:35,153 - INFO - Packet Ether / IP / UDP / mDNS Qry b'Satellite._dosvc._tcp.local.' -> Score: -0.2549 -> \U0001f6a8 Threat Detected!
+2025-03-30 16:26:35,403 - INFO - Packet Ether / IP / UDP / mDNS Qry b'Satellite._dosvc._tcp.local.' -> Score: -0.2549 -> \U0001f6a8 Threat Detected!
+2025-03-30 16:26:35,663 - INFO - Packet Ether / IP / UDP / mDNS Ans b'Satellite._dosvc._tcp.local.' -> Score: -0.2578 -> \U0001f6a8 Threat Detected!
+2025-03-30 16:26:35,675 - INFO - Packet Ether / IP / UDP / mDNS Ans -> Score: -0.2578 -> \U0001f6a8 Threat Detected!
+2025-03-30 16:26:49,789 - INFO - Packet Ether / IP / UDP / DNS Qry b'settings-win.data.microsoft.com.' -> Score: -0.2758 -> \U0001f6a8 Threat Detected!
+2025-03-30 16:26:49,802 - INFO - Packet Ether / IP / UDP / DNS Ans b'atm-settingsfe-prod-geo2.trafficmanager.net.' -> Score: -0.2636 -> \U0001f6a8 Threat Detected!
+2025-03-30 16:26:49,812 - INFO - Packet Ether / IP / TCP 192.168.1.102:49981 > 52.185.211.133:https S -> Score: -0.2555 -> \U0001f6a8 Threat Detected!
+2025-03-30 16:26:50,119 - INFO - Packet Ether / IP / TCP 52.185.211.133:https > 192.168.1.102:49981 SA -> Score: -0.1080 -> \U0001f6a8 Threat Detected!
+2025-03-30 16:26:50,129 - INFO - Packet Ether / IP / TCP 192.168.1.102:49981 > 52.185.211.133:https A -> Score: -0.0652 -> \U0001f6a8 Threat Detected!
+2025-03-30 16:26:50,142 - INFO - Packet Ether / IP / TCP 192.168.1.102:49981 > 52.185.211.133:https PA / Raw -> Score: -0.2697 -> \U0001f6a8 Threat Detected!
+2025-03-30 16:26:50,438 - INFO - Packet Ether / IP / TCP 52.185.211.133:https > 192.168.1.102:49981 A / Raw -> Score: -0.0104 -> \U0001f6a8 Threat Detected!
+2025-03-30 16:26:50,449 - INFO - Packet Ether / IP / TCP 52.185.211.133:https > 192.168.1.102:49981 A / Raw -> Score: -0.0104 -> \U0001f6a8 Threat Detected!
+2025-03-30 16:26:50,461 - INFO - Packet Ether / IP / TCP 52.185.211.133:https > 192.168.1.102:49981 PA / Raw -> Score: -0.0565 -> \U0001f6a8 Threat Detected!
+2025-03-30 16:26:50,471 - INFO - Packet Ether / IP / TCP 192.168.1.102:49981 > 52.185.211.133:https A -> Score: -0.0652 -> \U0001f6a8 Threat Detected!
+2025-03-30 16:26:50,483 - INFO - Packet Ether / IP / TCP 192.168.1.102:49981 > 52.185.211.133:https PA / Raw -> Score: -0.2697 -> \U0001f6a8 Threat Detected!
+2025-03-30 16:26:50,760 - INFO - Packet Ether / IP / TCP 52.185.211.133:https > 192.168.1.102:49981 PA / Raw -> Score: -0.1092 -> \U0001f6a8 Threat Detected!
+2025-03-30 16:26:50,770 - INFO - Packet Ether / IP / TCP 52.185.211.133:https > 192.168.1.102:49981 PA / Raw -> Score: -0.1092 -> \U0001f6a8 Threat Detected!
+2025-03-30 16:26:50,781 - INFO - Packet Ether / IP / TCP 192.168.1.102:49981 > 52.185.211.133:https A -> Score: -0.0652 -> \U0001f6a8 Threat Detected!
+2025-03-30 16:26:50,792 - INFO - Packet Ether / IP / TCP 192.168.1.102:49981 > 52.185.211.133:https PA / Raw -> Score: -0.2697 -> \U0001f6a8 Threat Detected!
+2025-03-30 16:26:50,803 - INFO - Packet Ether / IP / TCP 192.168.1.102:49981 > 52.185.211.133:https PA / Raw -> Score: -0.2555 -> \U0001f6a8 Threat Detected!
+2025-03-30 16:26:50,815 - INFO - Packet Ether / IP / TCP 192.168.1.102:49981 > 52.185.211.133:https PA / Raw -> Score: -0.2697 -> \U0001f6a8 Threat Detected!
+2025-03-30 16:26:51,086 - INFO - Packet Ether / IP / TCP 52.185.211.133:https > 192.168.1.102:49981 PA / Raw -> Score: -0.1092 -> \U0001f6a8 Threat Detected!
+2025-03-30 16:26:51,096 - INFO - Packet Ether / IP / TCP 52.185.211.133:https > 192.168.1.102:49981 A -> Score: -0.0833 -> \U0001f6a8 Threat Detected!
+2025-03-30 16:26:51,127 - INFO - Packet Ether / IP / TCP 192.168.1.102:49981 > 52.185.211.133:https A -> Score: -0.0652 -> \U0001f6a8 Threat Detected!
+2025-03-30 16:26:51,445 - INFO - Packet Ether / IP / TCP 52.185.211.133:https > 192.168.1.102:49981 PA / Raw -> Score: -0.0990 -> \U0001f6a8 Threat Detected!
+2025-03-30 16:26:51,455 - INFO - Packet Ether / IP / TCP 192.168.1.102:49981 > 52.185.211.133:https FA -> Score: -0.0652 -> \U0001f6a8 Threat Detected!
+2025-03-30 16:26:51,762 - INFO - Packet Ether / IP / TCP 52.185.211.133:https > 192.168.1.102:49981 PA / Raw -> Score: -0.1092 -> \U0001f6a8 Threat Detected!
+2025-03-30 16:26:51,771 - INFO - Packet Ether / IP / TCP 52.185.211.133:https > 192.168.1.102:49981 FA -> Score: -0.0833 -> \U0001f6a8 Threat Detected!
+2025-03-30 16:26:51,784 - INFO - Packet Ether / IP / TCP 192.168.1.102:49981 > 52.185.211.133:https RA -> Score: -0.0652 -> \U0001f6a8 Threat Detected!
+2025-03-30 16:26:53,602 - INFO - Packet Ether / IP / UDP / DNS Qry b'mobile.events.data.microsoft.com.' -> Score: -0.2768 -> \U0001f6a8 Threat Detected!
+2025-03-30 16:26:53,614 - INFO - Packet Ether / IP / UDP / DNS Qry b'mobile.events.data.microsoft.com.' -> Score: -0.2768 -> \U0001f6a8 Threat Detected!
+2025-03-30 16:26:53,625 - INFO - Packet Ether / IP / TCP 192.168.1.102:49928 > 13.89.178.26:https PA / Raw -> Score: -0.2877 -> \U0001f6a8 Threat Detected!
+2025-03-30 16:26:53,637 - INFO - Packet Ether / IP / TCP 192.168.1.102:49928 > 13.89.178.26:https PA / Raw -> Score: -0.2837 -> \U0001f6a8 Threat Detected!
+2025-03-30 16:26:53,649 - INFO - Packet Ether / IP / TCP 192.168.1.102:49928 > 13.89.178.26:https A / Raw -> Score: -0.2596 -> \U0001f6a8 Threat Detected!
+2025-03-30 16:26:53,660 - INFO - Packet Ether / IP / TCP 192.168.1.102:49928 > 13.89.178.26:https PA / Raw -> Score: -0.2645 -> \U0001f6a8 Threat Detected!
+2025-03-30 16:26:53,673 - INFO - Packet Ether / IP / UDP / DNS Ans b'mobile.events.data.trafficmanager.net.' -> Score: -0.2636 -> \U0001f6a8 Threat Detected!
+2025-03-30 16:26:53,686 - INFO - Packet Ether / IP / UDP / DNS Ans b'mobile.events.data.trafficmanager.net.' -> Score: -0.2636 -> \U0001f6a8 Threat Detected!
+2025-03-30 16:26:53,906 - INFO - Packet Ether / IP / TCP 13.89.178.26:https > 192.168.1.102:49928 A -> Score: -0.1609 -> \U0001f6a8 Threat Detected!
+2025-03-30 16:26:53,916 - INFO - Packet Ether / IP / TCP 13.89.178.26:https > 192.168.1.102:49928 A -> Score: -0.1609 -> \U0001f6a8 Threat Detected!
+2025-03-30 16:26:53,929 - INFO - Packet Ether / IP / TCP 13.89.178.26:https > 192.168.1.102:49928 PA / Raw -> Score: -0.2177 -> \U0001f6a8 Threat Detected!
+2025-03-30 16:26:53,945 - INFO - Packet Ether / IP / TCP 192.168.1.102:49928 > 13.89.178.26:https A -> Score: -0.1584 -> \U0001f6a8 Threat Detected!
+2025-03-30 16:26:54,245 - INFO - Packet Ether / IP / TCP 13.89.178.26:https > 192.168.1.102:49928 PA / Raw -> Score: -0.2182 -> \U0001f6a8 Threat Detected!
+2025-03-30 16:26:54,257 - INFO - Packet Ether / IP / TCP 192.168.1.102:49928 > 13.89.178.26:https PA / Raw -> Score: -0.2827 -> \U0001f6a8 Threat Detected!
+2025-03-30 16:26:54,606 - INFO - Packet Ether / IP / TCP 13.89.178.26:https > 192.168.1.102:49928 A -> Score: -0.1609 -> \U0001f6a8 Threat Detected!

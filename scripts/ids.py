@@ -81,7 +81,7 @@ def start_detection(model, iface: str) -> None:
 def parse_args():
     """Parse command-line arguments."""
     parser = argparse.ArgumentParser(description="IDS: Real-time Intrusion Detection System")
-    parser.add_argument("--iface", type=str, default="Wi-Fi", help="Network interface to monitor")
+    parser.add_argument("--iface", type=str, default="WiFi", help="Network interface to monitor")
     parser.add_argument("--model", type=str, default=MODEL_FILE, help="Path to the trained model file")
     parser.add_argument("--log", type=str, default=LOG_FILE, help="Path to the log file")
     return parser.parse_args()
