@@ -1,5 +1,8 @@
 # 🛡️ Big Defend: ML-Powered Intrusion Detection System
 
+> **📚 Academic Project Notice**  
+> This project was developed as part of an academic semester coursework and served as a valuable learning exercise in cybersecurity, machine learning, and network analysis. While it demonstrates core concepts of intrusion detection systems, **this repository is no longer actively maintained and will not receive future updates**. The code remains available for educational purposes and as a reference for students and researchers interested in ML-powered security solutions.
+
 Big Defend is an Intrusion Detection System (IDS) leveraging **Machine Learning** and **Real-Time Packet Capture**. It captures live network traffic using Scapy, trains an anomaly detection model (using scikit-learn), and monitors network activity for potential threats, presenting controls and logs via a sleek **GUI built with PySide6**.
 
 ---
@@ -119,10 +122,23 @@ The **Big Defend** GUI features:
 * Integrated Console: Displays real-time logs from background operations.
 * Contextual Controls: E.g., the "Stop IDS" button typically appears only when the IDS is active.
 
-*(---screenshot of the GUI---)*
+---
+
+## 🎓 Educational Value
+
+This project demonstrates several key concepts in cybersecurity and software engineering:
+
+* **Network Security:** Real-time packet analysis and intrusion detection
+* **Machine Learning:** Anomaly detection using scikit-learn algorithms
+* **GUI Development:** Modern interface design with PySide6
+* **System Integration:** Combining multiple technologies for a cohesive security solution
+* **Software Architecture:** Modular design with separate capture, training, and monitoring components
+
 ---
 
 ## 💡 Future Enhancements
+
+While this project is no longer maintained, potential improvements could include:
 
 * Improve IDS detection accuracy (e.g., explore deep learning models).
 * Enhance GUI with a dashboard for visual analytics and statistics.
@@ -133,7 +149,7 @@ The **Big Defend** GUI features:
 
 ## 🤝 Contributing
 
-Contributions are welcome! Please feel free to fork the repository, make improvements, and submit a pull request. You can also open issues for bugs or feature suggestions.
+As this is an archived academic project, contributions are not actively being accepted. However, you're welcome to fork the repository for your own educational purposes or use it as inspiration for your own projects.
 
 ---
 
